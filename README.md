@@ -15,3 +15,11 @@ Processing.
 # IIT DELHI Thesis
 Hydrosense Lab, Supervisor: Dr. Manabendra Saharia 04/2020-05/2021
 ## Topic : Multi-dimensional Characterization of Flooding Events over Indian Peninsular Region using Machine Learning
+
+# PERSONAL PROJECTS 
+
+## Classification with Neural Network 
+
+Here, I will be using the famous MNIST fashion dataset, which contains 70,000 clothing fashion images. Here our task is to train an image classification model with neural networks.
+
+## 
